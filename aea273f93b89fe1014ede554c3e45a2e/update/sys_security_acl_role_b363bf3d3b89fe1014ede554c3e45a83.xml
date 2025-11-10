@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-07 14:16:53</sys_created_on>
+        <sys_id>b363bf3d3b89fe1014ede554c3e45a83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dru_market_0_case.x_snc_dru_market_0.admin</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_security_acl display_value="x_snc_dru_market_0_case">3763bf3d3b89fe1014ede554c3e45a70</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b363bf3d3b89fe1014ede554c3e45a83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-07 14:16:53</sys_updated_on>
+        <sys_user_role display_value="x_snc_dru_market_0.admin" name="x_snc_dru_market_0.admin">26a273f93b89fe1014ede554c3e45a5b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

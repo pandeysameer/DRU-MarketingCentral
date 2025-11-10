@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_snc_dru_market_0_case_task</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 14:00:54</sys_created_on>
+        <sys_id>a759f8163b89b25014ede554c3e45a9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dru_market_0_case_task</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sys_security_acl_a759f8163b89b25014ede554c3e45a9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 14:00:54</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</application>
+        <file_path/>
+        <instance_id>9e42d4283bf266549aefe747f4e45ae5</instance_id>
+        <instance_name>empsameerpandey</instance_name>
+        <name>sys_security_acl_a759f8163b89b25014ede554c3e45a9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_snc_dru_market_0_case_task</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-08 14:00:54</sys_created_on><sys_id>a759f8163b89b25014ede554c3e45a9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_dru_market_0_case_task</sys_name><sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package><sys_policy/><sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope><sys_update_name>sys_security_acl_a759f8163b89b25014ede554c3e45a9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-08 14:00:54</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1328308110</payload_hash>
+        <record_name>x_snc_dru_market_0_case_task</record_name>
+        <reverted_from/>
+        <source>aaa273f93b89fe1014ede554c3e45a31</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 14:00:54</sys_created_on>
+        <sys_id>2359f8163b89b25014ede554c3e45ab1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a63c520a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 14:00:54</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6759f8165d89b250eb8a7548c36128b0</update_guid>
+        <update_guid_history>6759f8165d89b250eb8a7548c36128b0:1328308110</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 14:02:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>10c94982ce7f4de88167eecb546aa240</sys_id>
+        <sys_metadata>a759f8163b89b25014ede554c3e45a9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dru_market_0_case_task</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_parent display_value="">315978163b89b25014ede554c3e45a41</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_scope_delete display_value="">0dc47e38b9d74abd8428677430f79fa9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a759f8163b89b25014ede554c3e45a9e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a759f8163b89b25014ede554c3e45a9e">2359f8163b89b25014ede554c3e45ab1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 14:02:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

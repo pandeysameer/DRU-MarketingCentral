@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Case Task" language="en" table="x_snc_dru_market_0_case_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Case Task</label>
+            <language>en</language>
+            <name>x_snc_dru_market_0_case_task</name>
+            <plural>Case Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-08 14:03:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Case Task</sys_name>
+            <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_dru_market_0_case_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-08 14:03:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

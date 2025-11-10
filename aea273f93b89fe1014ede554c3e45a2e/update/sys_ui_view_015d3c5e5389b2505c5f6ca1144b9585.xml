@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-marketing-central-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 14:18:15</sys_created_on>
+        <sys_id>015d3c5e5389b2505c5f6ca1144b9585</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Marketing Central 0</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sys_ui_view_015d3c5e5389b2505c5f6ca1144b9585</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 14:18:15</sys_updated_on>
+        <title>Workspace Marketing Central 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

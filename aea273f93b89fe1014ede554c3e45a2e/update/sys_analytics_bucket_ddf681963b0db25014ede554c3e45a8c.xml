@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="NextExperience">c8ae7e45732130107d804c9885f6a7a5</analytics_channel>
+        <application_name>Marketing Central</application_name>
+        <bucket_document_id>455d3c5e6389b25069afaede2dbe088d</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_metadata_customer_override/>
+        <bucket_table_name>sys_ux_page_registry</bucket_table_name>
+        <bucket_type/>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_snc_dru_market_0.sys_ux_page_registry.455d3c5e6389b25069afaede2dbe088d</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 15:00:17</sys_created_on>
+        <sys_id>ddf681963b0db25014ede554c3e45a8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Central</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sys_analytics_bucket_ddf681963b0db25014ede554c3e45a8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 15:00:17</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>

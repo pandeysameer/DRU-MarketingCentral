@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_attribute">
+    <ais_datasource_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="index_attachments">2dd8f14753320010ffaaddeeff7b1293</attribute>
+        <datasource display_value="Case Task Table">4a7db0de3b89b25014ede554c3e45abb</datasource>
+        <source>x_snc_dru_market_0_case_task</source>
+        <sys_class_name>ais_datasource_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-08 14:18:49</sys_created_on>
+        <sys_id>ce7db0de3b89b25014ede554c3e45abc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>ais_datasource_attribute_ce7db0de3b89b25014ede554c3e45abc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-08 14:18:49</sys_updated_on>
+        <value>false</value>
+    </ais_datasource_attribute>
+</record_update>
