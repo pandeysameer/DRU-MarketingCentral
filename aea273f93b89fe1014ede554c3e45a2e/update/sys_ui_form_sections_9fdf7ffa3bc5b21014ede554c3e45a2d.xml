@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9fdf7ffa3bc5b21014ede554c3e45a2d" sys_domain="global" table="x_snc_dru_market_0_case_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-10 17:45:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bdf7ffa3bc5b21014ede554c3e45a2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_dru_market_0_case_task" name="x_snc_dru_market_0_case_task" sys_domain="global" view="Default view">9fdf7ffa3bc5b21014ede554c3e45a2d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case_task" sys_domain="global" view="Default view">6cf9f8163b89b25014ede554c3e45af4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-10 17:45:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-10 17:45:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7dfffb23b09b21014ede554c3e45a14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_dru_market_0_case_task" name="x_snc_dru_market_0_case_task" sys_domain="global" view="Default view">9fdf7ffa3bc5b21014ede554c3e45a2d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_dru_market_0_case_task" sys_domain="global" view="Default view">dbdf7ffa3bc5b21014ede554c3e45a30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-10 17:45:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_dru_market_0_case_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-10 17:45:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fdf7ffa3bc5b21014ede554c3e45a2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_dru_market_0_case_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9fdf7ffa3bc5b21014ede554c3e45a2d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-10 17:45:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

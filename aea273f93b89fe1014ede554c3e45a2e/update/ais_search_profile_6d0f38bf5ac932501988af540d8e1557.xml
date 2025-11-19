@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>This is default AI Search profile for DRU-Marketing Central  - New</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>dru-marketing-central---new Search Profile</label>
+        <name>x_snc_dru_market_0_dpycwda_search_profile</name>
+        <publish_id>116a2463-b339-46ee-960d-aaf446ca2499</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:31</sys_created_on>
+        <sys_id>6d0f38bf5ac932501988af540d8e1557</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>dru-marketing-central---new Search Profile</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>ais_search_profile_6d0f38bf5ac932501988af540d8e1557</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:23:15</sys_updated_on>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">610f38bfdac932504df4166dbe753558</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a10f38bf5bc932505af92cf848a08645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sys_ux_page_property_a10f38bf5bc932505af92cf848a08645</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:16:32</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_dru_market_0.610f38bfdac932504df4166dbe753558.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</application>
+        <file_path/>
+        <instance_id>9e42d4283bf266549aefe747f4e45ae5</instance_id>
+        <instance_name>empsameerpandey</instance_name>
+        <name>sys_ux_page_property_a10f38bf5bc932505af92cf848a08645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">610f38bfdac932504df4166dbe753558</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-13 06:16:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a10f38bf5bc932505af92cf848a08645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package><sys_policy/><sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope><sys_update_name>sys_ux_page_property_a10f38bf5bc932505af92cf848a08645</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-13 06:16:32</sys_updated_on><type>json</type><unique_name>x_snc_dru_market_0.610f38bfdac932504df4166dbe753558.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>283396682</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>66dc59323b013210463c989e53e45afe</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-11-10 05:52:54</sys_created_on>
+        <sys_id>96114df73b0d3250463c989e53e45a52</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19a6c530ef00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>56114df72e0d32509f7db5ffbeb28a52</update_guid>
+        <update_guid_history>56114df72e0d32509f7db5ffbeb28a52:283396682</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:25:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>02fa9da9411f410e9bb859dd1a0e3fc4</sys_id>
+        <sys_metadata>a10f38bf5bc932505af92cf848a08645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_scope_delete display_value="">0dc47e38b9d74abd8428677430f79fa9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a10f38bf5bc932505af92cf848a08645</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a10f38bf5bc932505af92cf848a08645">96114df73b0d3250463c989e53e45a52</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:25:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

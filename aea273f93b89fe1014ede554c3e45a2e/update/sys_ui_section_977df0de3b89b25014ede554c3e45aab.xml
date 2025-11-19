@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aa7</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>75248b3e3bc5721014ede554c3e45a1f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,139 +18,153 @@
             <element>caller_id</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>d201d15e3b4db25014ede554c3e45aa8</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>bd248b3e3bc5721014ede554c3e45a20</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>3d248b3e3bc5721014ede554c3e45a21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aa8</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>b9248b3e3bc5721014ede554c3e45a22</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>d201d15e3b4db25014ede554c3e45aa9</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>39248b3e3bc5721014ede554c3e45a23</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contact_type</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aa9</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>b5248b3e3bc5721014ede554c3e45a24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>d201d15e3b4db25014ede554c3e45aaa</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>35248b3e3bc5721014ede554c3e45a25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aaa</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>b1248b3e3bc5721014ede554c3e45a26</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>d201d15e3b4db25014ede554c3e45aab</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>31248b3e3bc5721014ede554c3e45a27</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aab</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>bd248b3e3bc5721014ede554c3e45a27</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>d201d15e3b4db25014ede554c3e45aac</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>3d248b3e3bc5721014ede554c3e45a28</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-11-08 15:44:19</sys_created_on>
-            <sys_id>da01d15e3b4db25014ede554c3e45aac</sys_id>
+            <sys_created_on>2025-11-10 13:24:14</sys_created_on>
+            <sys_id>b9248b3e3bc5721014ede554c3e45a29</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_dru_market_0_case" sys_domain="global" view="015d3c5e5389b2505c5f6ca1144b9585">977df0de3b89b25014ede554c3e45aab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-11-08 15:44:19</sys_updated_on>
+            <sys_updated_on>2025-11-10 13:24:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_snc_dru_market_0.Audience for app dru-marketing-central---new</api_name>
+        <description/>
+        <name>Audience for app dru-marketing-central---new</name>
+        <role_names/>
+        <roles>26a273f93b89fe1014ede554c3e45a5b,faa273f93b89fe1014ede554c3e45a60</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a0ff8bf3bc93250463c989e53e45a72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app dru-marketing-central---new</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sys_ux_applicability_3a0ff8bf3bc93250463c989e53e45a72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:16:36</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</application>
+        <file_path/>
+        <instance_id>9e42d4283bf266549aefe747f4e45ae5</instance_id>
+        <instance_name>empsameerpandey</instance_name>
+        <name>sys_ux_applicability_3a0ff8bf3bc93250463c989e53e45a72</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_snc_dru_market_0.Audience for app dru-marketing-central---new</api_name><description/><name>Audience for app dru-marketing-central---new</name><role_names/><roles>26a273f93b89fe1014ede554c3e45a5b,faa273f93b89fe1014ede554c3e45a60</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-13 06:16:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3a0ff8bf3bc93250463c989e53e45a72</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app dru-marketing-central---new</sys_name><sys_overrides/><sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package><sys_policy/><sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope><sys_update_name>sys_ux_applicability_3a0ff8bf3bc93250463c989e53e45a72</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-13 06:16:36</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>1956699442</payload_hash>
+        <record_name>Audience for app dru-marketing-central---new</record_name>
+        <reverted_from/>
+        <source>50e2c3f63bc5721014ede554c3e45a59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:36</sys_created_on>
+        <sys_id>be0ff8bf3bc93250463c989e53e45a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a7bdbd6d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:16:36</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>fa0ff8bf68c93250118d9cf80128ae75</update_guid>
+        <update_guid_history>fa0ff8bf68c93250118d9cf80128ae75:1956699442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:25:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>2ddeab94160d4ec090afb711f8a12100</sys_id>
+        <sys_metadata>3a0ff8bf3bc93250463c989e53e45a72</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app dru-marketing-central---new</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_scope_delete display_value="">0dc47e38b9d74abd8428677430f79fa9</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_3a0ff8bf3bc93250463c989e53e45a72</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_3a0ff8bf3bc93250463c989e53e45a72">be0ff8bf3bc93250463c989e53e45a76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:25:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

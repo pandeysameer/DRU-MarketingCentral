@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_ex_sp_request_source">
+    <sn_ex_sp_request_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <all_portals>true</all_portals>
+        <description/>
+        <description_fields>description</description_fields>
+        <filter/>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <order>100</order>
+        <portal_page display_value="ticket">84af292247132100ba13a5554ee4909e</portal_page>
+        <portals/>
+        <roles/>
+        <sys_class_name>sn_ex_sp_request_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-11 16:52:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ffc34933b853a10463c989e53e45a74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Requests</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sn_ex_sp_request_source_9ffc34933b853a10463c989e53e45a74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-11 16:52:27</sys_updated_on>
+        <table>x_snc_dru_market_0_case</table>
+        <title>Marketing Requests</title>
+        <title_field>short_description</title_field>
+        <user/>
+    </sn_ex_sp_request_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=9ffc34933b853a10463c989e53e45a74"/>
+</record_update>

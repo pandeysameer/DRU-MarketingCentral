@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a90f38bf04c93250b3aff5865d1c7d55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>m2m_app_config_theme_a90f38bf04c93250b3aff5865d1c7d55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:16:32</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">ad0f38bf92c932509ec1b863b082d056</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</application>
+        <file_path/>
+        <instance_id>9e42d4283bf266549aefe747f4e45ae5</instance_id>
+        <instance_name>empsameerpandey</instance_name>
+        <name>m2m_app_config_theme_a90f38bf04c93250b3aff5865d1c7d55</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-13 06:16:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a90f38bf04c93250b3aff5865d1c7d55</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package><sys_policy/><sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope><sys_update_name>m2m_app_config_theme_a90f38bf04c93250b3aff5865d1c7d55</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-13 06:16:32</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">ad0f38bf92c932509ec1b863b082d056</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1310535793</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>66dc59323b013210463c989e53e45afe</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-11-10 05:52:54</sys_created_on>
+        <sys_id>43118df73b0d3250463c989e53e45afb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19a6c530ef00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>03118df7440d32500fa3d4cc5d507bfb</update_guid>
+        <update_guid_history>03118df7440d32500fa3d4cc5d507bfb:-1310535793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">87118df73b0d3250463c989e53e45afc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:25:37</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>1d0f100e05d74d548a1fb61b0244e449</sys_id>
+        <sys_metadata>a90f38bf04c93250b3aff5865d1c7d55</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_scope_delete display_value="">0dc47e38b9d74abd8428677430f79fa9</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_a90f38bf04c93250b3aff5865d1c7d55</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_a90f38bf04c93250b3aff5865d1c7d55">43118df73b0d3250463c989e53e45afb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:25:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

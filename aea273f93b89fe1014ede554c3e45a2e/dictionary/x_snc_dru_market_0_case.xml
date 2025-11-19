@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="ad63fb3d3b89fe1014ede554c3e45ae4" extends="task" label="Case" max_length="40" name="x_snc_dru_market_0_case" text_index="true" type="collection">
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Caller" max_length="32" name="caller_id" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element choice="3" label="Case type" mandatory="true" max_length="40" name="case_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Corporate website changes/redesign" sequence="4" value="corporate_website_changes_redesign"/>
+                <element inactive_on_update="false" label="Newsletter" sequence="3" value="newsletter"/>
+                <element inactive_on_update="false" label="Event" sequence="2" value="event"/>
+                <element inactive_on_update="false" label="Corporate communication" sequence="0" value="corporate_communication"/>
+                <element inactive_on_update="false" label="Corporate gifts" sequence="1" value="corporate_gifts"/>
+            </choice>
+        </element>
     </element>
 </database>

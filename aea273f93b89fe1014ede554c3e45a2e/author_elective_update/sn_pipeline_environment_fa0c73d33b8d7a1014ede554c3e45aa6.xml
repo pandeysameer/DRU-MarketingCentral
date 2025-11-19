@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="DELETE">
+        <instance_credential display_value="dogsrus_prod">eb8a33531b413210ef40eb11b24bcbf8</instance_credential>
+        <instance_id>ada45a369381b2d0c4e8ddd548373ca0</instance_id>
+        <instance_type>prod</instance_type>
+        <instance_url>https://dogsrus.service-now.com</instance_url>
+        <is_controller>false</is_controller>
+        <name>dogsrus-prod</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-12 06:46:34</sys_created_on>
+        <sys_id>fa0c73d33b8d7a1014ede554c3e45aa6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dogsrus-prod</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>sn_pipeline_environment_fa0c73d33b8d7a1014ede554c3e45aa6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-12 06:46:34</sys_updated_on>
+    </sn_pipeline_environment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</application>
+        <file_path/>
+        <instance_id>9e42d4283bf266549aefe747f4e45ae5</instance_id>
+        <instance_name>empsameerpandey</instance_name>
+        <name>sn_pipeline_environment_fa0c73d33b8d7a1014ede554c3e45aa6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment"><sn_pipeline_environment action="INSERT_OR_UPDATE"><instance_credential display_value="dogsrus_prod">eb8a33531b413210ef40eb11b24bcbf8</instance_credential><instance_id>ada45a369381b2d0c4e8ddd548373ca0</instance_id><instance_type>prod</instance_type><instance_url>https://dogsrus.service-now.com</instance_url><is_controller>false</is_controller><name>dogsrus-prod</name><sys_class_name>sn_pipeline_environment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-12 06:46:34</sys_created_on><sys_id>fa0c73d33b8d7a1014ede554c3e45aa6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dogsrus-prod</sys_name><sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package><sys_policy/><sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope><sys_update_name>sn_pipeline_environment_fa0c73d33b8d7a1014ede554c3e45aa6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-12 06:46:34</sys_updated_on></sn_pipeline_environment></record_update>]]></payload>
+        <payload_hash>-819996631</payload_hash>
+        <record_name>dogsrus-prod</record_name>
+        <reverted_from/>
+        <source>50e2c3f63bc5721014ede554c3e45a59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-12 06:46:34</sys_created_on>
+        <sys_id>085c33173b8d7a1014ede554c3e45a4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a76d0eabd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-12 06:46:34</sys_updated_on>
+        <type>Environment</type>
+        <update_guid>845c3317628d7a10bf7d89056b4bf64e</update_guid>
+        <update_guid_history>845c3317628d7a10bf7d89056b4bf64e:-819996631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="dogsrus-prod">33dcb3973b8d7a1014ede554c3e45afa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-12 06:49:00</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_environment">sn_pipeline_environment</sys_db_object>
+        <sys_id>18f9d023901341008565538ee1e18100</sys_id>
+        <sys_metadata>fa0c73d33b8d7a1014ede554c3e45aa6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dogsrus-prod</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_scope_delete display_value="">0dc47e38b9d74abd8428677430f79fa9</sys_scope_delete>
+        <sys_update_name>sn_pipeline_environment_fa0c73d33b8d7a1014ede554c3e45aa6</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_environment_fa0c73d33b8d7a1014ede554c3e45aa6">085c33173b8d7a1014ede554c3e45a4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-12 06:49:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_dru_market_0_case,x_snc_dru_market_0_case_task</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>dru-marketing-central---new Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2025-11-19 10:52:11</last_derived>
+        <locale>en</locale>
+        <name>x_snc_dru_market_0_dru_marketing_central_new_search_profile_default_spell_check_dictionary</name>
+        <publish_id>827e3b31-45db-4e8d-9f33-51abed14db59</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:16:38</sys_created_on>
+        <sys_id>130f7cbf3bc93250463c989e53e45a09</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_dru_market_0_dru_marketing_central_new_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="DRU-Marketing Central" source="x_snc_dru_market_0">aea273f93b89fe1014ede554c3e45a2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DRU-Marketing Central">aea273f93b89fe1014ede554c3e45a2e</sys_scope>
+        <sys_update_name>ais_dictionary_130f7cbf3bc93250463c989e53e45a09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:16:38</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>
